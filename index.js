@@ -4,8 +4,8 @@ document.body.appendChild(canvas);
 const ctx = canvas.getContext('2d');
 
 // Set canvas size
-canvas.width = 400;
-canvas.height = 400;
+canvas.width = 1200;
+canvas.height = 600;
 
 // Ball object
 const ball = {
